@@ -162,7 +162,7 @@ if 'MR'==user and 'ALEX '==pas:
 
 else:
 
-        Axak(y+"\n\n\t\t      Invalid User Or Pass
+        Axak(y+"\n\n\t\t      Invalid User Or pass"
 
         Axak(y+"\n\n\t\tContract Admin For User And Pass")
 
